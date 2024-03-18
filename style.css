@@ -132,6 +132,10 @@ li a:hover {
     animation-delay: 1s;
 }
 
+p {
+    animation: leftSideAni 1s ease forwards;
+}
+
 .main button {
     background-color: transparent;
     color: var(--primary-color);
